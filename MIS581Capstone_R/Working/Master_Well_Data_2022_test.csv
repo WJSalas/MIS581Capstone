@@ -1,0 +1,3 @@
+API_Label,Spud_Date,Ground_Ele,Well_Stat,Stat_Date,Section,Township,Range,Sec_Twn_Rng,lat1,long1,Assessor_acct,stripper_flg,mill_cd,tot_mill,asd_val,Tax_Est
+05-013-06061,5/30/1981,5243,SI,10/1/2022,18,1N,69W,18-1N-69W,40.056464,-105.165919,P0265040    ,N,4253,96.963,29051,2816.872113
+05-013-06073,7/29/1981,5224,PR,11/1/2022,6,1N,69W,6-1N-69W,40.08523,-105.16672,P0225839    ,N,4249,104.778,32919,3449.186982

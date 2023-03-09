@@ -1,0 +1,2 @@
+"0","Output <- paste(getwd(), ""Working/Assessor_Well_Output_Data_v2.csv"", sep = ""/"")"
+"0","write.csv(df, Output, row.names = TRUE)"
