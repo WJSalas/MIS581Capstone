@@ -1,6 +1,6 @@
 {
     "id": "A2E7BFB6",
-    "path": "C:/Users/wende/Desktop/School/MIS581-Capstone_Business Intelligence and Data Analytics/MIS581Capstone/MIS581ExecutionScript.R",
+    "path": "C:/Users/wende/Desktop/School/MIS581-Capstone_Business Intelligence and Data Analytics/MIS581Capstone_Project/MIS581Capstone/MIS581Capstone_R/MIS581ExecutionScript.R",
     "project_path": "MIS581ExecutionScript.R",
     "type": "r_source",
     "hash": "3742739906",
@@ -14,7 +14,7 @@
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "138,0",
-        "scrollLine": "122"
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1678250465,

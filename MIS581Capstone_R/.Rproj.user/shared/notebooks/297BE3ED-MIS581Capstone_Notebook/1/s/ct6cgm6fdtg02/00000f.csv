@@ -1,7 +1,0 @@
-"0","## Working Files"
-"0","Assessor_Master_Data <- paste(getwd(), ""Working/Assessor_Master_Res_Data_2022.csv"", sep = ""/"")"
-"0","Well_Master_Data <- paste(getwd(), ""Working/Master_Well_Data_Combined_v3.csv"", sep = ""/"")"
-"0",""
-"0","## Read in .csv file"
-"0","Assessor_Data <- read.csv(Assessor_Master_Data, header = TRUE)"
-"0","Well_Data <- read.csv(Well_Master_Data, header = TRUE)"
